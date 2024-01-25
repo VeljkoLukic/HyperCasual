@@ -9,3 +9,5 @@
 ![5](Info/5.png)
 
 ![6](Info/6.png)
+
+![Gameplay](Info/gameplay.gif)
